@@ -23,7 +23,7 @@ print
 print "Creator   : Kandol Tersakiti"
 print "Thanks To : Ali Attacker"
 print "You Tube  : https://www.youtube.com/channel/UCOe7cOMZJSLtXsSuGUsrrcQ ( Anonymous All Indonesia )"
-
+print "Blogspot  : https://aliattackerteam.blogspot.com"
 print "Github    : https://github.com/Kandol"
 print "Email     : kandoljr701@gmail.com"
 print "Team.     : Ali Attacker"
