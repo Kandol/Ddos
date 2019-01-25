@@ -13,12 +13,11 @@ month = now.month
 year = now.year
 
 ##############
-sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-bytes = random._urandom(1490)
+Ali Attacker
 #############
 
 os.system("clear")
-os.system("figlet DDoS Attack RCT")
+os.system("figlet DDoS Attack Anonymous All Indonesia")
 print
 print "Creator   : Kandol Tersakiti"
 print "Thanks To : Ali Attacker"
